@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    height: 100%;
+}
+
+#card {
+    width: 300px;
+    height: 100px;
+}
+
+a {
+    text-decoration: none;
+}
